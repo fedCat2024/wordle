@@ -11,7 +11,9 @@
 - 灰色：字母不在单词中
 4. 设置猜测次数上限（如6次），达到上限游戏结束，不能再输入猜测
 
-#### 版本
-1. react + typescript：wordle-react-ts
-2. react + js：wordle-react-js
-
+#### 技术栈
+1. typescript
+2. html
+3. css
+4. react
+5. jest
